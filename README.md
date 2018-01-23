@@ -1,2 +1,3 @@
 # tool-shed
-Useful bash scripts and other code
+
+Useful `bash` scripts and other tools in `code`
